@@ -1,19 +1,6 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node FOLDED="false" ID="Freemind_Link_1331878192" CREATED="1266488194781" MODIFIED="1581245692038" LINK="../../../../Dropbox/personal/planning/routine/active-projects.mm"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      plan
-    </p>
-  </body>
-</html>
-</richcontent>
-<hook NAME="MapStyle">
+<node TEXT="PyPortal&#xa;plan" FOLDED="false" ID="Freemind_Link_1331878192" CREATED="1266488194781" MODIFIED="1582475230663" LINK="../../../../Dropbox/personal/planning/routine/active-projects.mm"><hook NAME="MapStyle">
     <properties fit_to_viewport="false;"/>
 
 <map_styles>
@@ -107,6 +94,8 @@
 </node>
 <node TEXT="Resources" POSITION="left" ID="Freemind_Link_1594441695" CREATED="1273319832507" MODIFIED="1296303609303" COLOR="#33ff33">
 <icon BUILTIN="password"/>
+<node TEXT="https://learn.adafruit.com/micropython-hardware-sd-cards" ID="ID_1587059017" CREATED="1582475233009" MODIFIED="1582475233009" LINK="https://learn.adafruit.com/micropython-hardware-sd-cards"/>
+<node TEXT="https://learn.adafruit.com/circuitpython-display-support-using-displayio/library-overview" ID="ID_1452901340" CREATED="1582475263780" MODIFIED="1582475263780" LINK="https://learn.adafruit.com/circuitpython-display-support-using-displayio/library-overview"/>
 </node>
 </node>
 </map>
